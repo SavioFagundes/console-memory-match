@@ -1,0 +1,14 @@
+F:\Projects\memory-match\bin\Debug\net9.0\memory-match.exe
+F:\Projects\memory-match\bin\Debug\net9.0\memory-match.deps.json
+F:\Projects\memory-match\bin\Debug\net9.0\memory-match.runtimeconfig.json
+F:\Projects\memory-match\bin\Debug\net9.0\memory-match.dll
+F:\Projects\memory-match\bin\Debug\net9.0\memory-match.pdb
+F:\Projects\memory-match\obj\Debug\net9.0\memory-match.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\memory-match\obj\Debug\net9.0\memory-match.AssemblyInfoInputs.cache
+F:\Projects\memory-match\obj\Debug\net9.0\memory-match.AssemblyInfo.cs
+F:\Projects\memory-match\obj\Debug\net9.0\memory-match.csproj.CoreCompileInputs.cache
+F:\Projects\memory-match\obj\Debug\net9.0\memory-match.dll
+F:\Projects\memory-match\obj\Debug\net9.0\refint\memory-match.dll
+F:\Projects\memory-match\obj\Debug\net9.0\memory-match.pdb
+F:\Projects\memory-match\obj\Debug\net9.0\memory-match.genruntimeconfig.cache
+F:\Projects\memory-match\obj\Debug\net9.0\ref\memory-match.dll
